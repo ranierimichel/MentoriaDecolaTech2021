@@ -44,5 +44,5 @@ Simulação do contexto de uma agência bancária, fluxo de abertura de conta e 
    - Uma janela
    - Uma conta bancária
 
-# Obs: Adicionei o Encerrar conta e transferir para praticar.
-# Curso ministrado por Carla Frascareli transmitito por digitalInnovationOne.
+## Obs: Adicionei o Encerrar conta e transferir para praticar.
+## Curso ministrado por Carla Frascareli transmitito por digitalInnovationOne.
